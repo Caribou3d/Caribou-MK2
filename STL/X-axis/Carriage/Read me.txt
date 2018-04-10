@@ -1,0 +1,8 @@
+# of parts needed:
+
+Part name:			Amount:
+X-CarriageBearingCover1		1
+X-CarriageBearingCover2		1
+X-CarriageCableSupport		1
+x-Carriage-MK2			1
+

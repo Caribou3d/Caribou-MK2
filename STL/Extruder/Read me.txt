@@ -1,0 +1,8 @@
+# of parts needed:
+
+Part name:			Amount:
+BearingHousing			3
+ExtruderBody			1
+ExtruderCover			1
+ExtruderIder			1
+FanNozzleWide			1
